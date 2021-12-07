@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Pak</h1>
+<h1 align="left">Hi, I'm Pak! 👋</h1>
 <h3 align="left">A Data Science and Analytics Major at the National University of Singapore</h3>
 
 - 🔭 I’m currently working on [CS1010S-reminder-bot](https://github.com/pakshuang/CS1010S-reminder-bot)
