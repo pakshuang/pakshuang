@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CS1010S-reminder-bot](https://github.com/pakshuang/CS1010S-reminder-bot)
 
-- 🌱 I’m currently learning **AWS, Alibaba Cloud, R, Git**
+- 🌱 I’m currently learning **R**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
