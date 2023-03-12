@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CS1010S-reminder-bot](https://github.com/pakshuang/CS1010S-reminder-bot)
 
-- 🌱 I’m currently learning **Data Engineering (Airflow, dbt, BQ, etc.)**
+- 🌱 I’m currently learning **Data Engineering (Airflow, dbt, BQ, etc.), Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
